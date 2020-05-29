@@ -13,12 +13,12 @@ index.html - The Index document for the website.
 LINK:
 http://udacity-website2000.s3.eu-central-1.amazonaws.com/index.html
 
-![Test Image 1](screenshots/S3-1.png)
+![S3-Bucket](screenshots/S3-1.PNG)
 
-![Test Image 1](screenshots/S3-2.png)
+![S3-Static Website Hosting(screenshots/S3-2.PNG)
 
-![Test Image 1](screenshots/S3-3.png)
+![S3-Permission](screenshots/S3-3.PNG)
 
-![Test Image 1](screenshots/S3-4.png)
+![S3-Bucket Policy](screenshots/S3-4.PNG)
 
-![Test Image 1](screenshots/Cloudfront.PNG)
+![Cloud Front](screenshots/Cloudfront.PNG)
