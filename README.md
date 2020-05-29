@@ -15,7 +15,7 @@ http://udacity-website2000.s3.eu-central-1.amazonaws.com/index.html
 
 ![S3-Bucket](screenshots/S3-1.PNG)
 
-![S3-Static Website Hosting(screenshots/S3-2.PNG)
+![S3-Static Website Hosting](screenshots/S3-2.PNG)
 
 ![S3-Permission](screenshots/S3-3.PNG)
 
